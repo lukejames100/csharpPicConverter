@@ -1,0 +1,13 @@
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\csharpPicConverter.exe.config
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\csharpPicConverter.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\csharpPicConverter.pdb
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\Aspose.Imaging.dll
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\ImageProcessor.dll
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\Imazen.WebP.dll
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\SixLabors.ImageSharp.dll
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\bin\Release\Imazen.WebP.xml
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\obj\Release\csharpPicConverter.Form1.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\obj\Release\csharpPicConverter.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\obj\Release\csharpPicConverter.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\obj\Release\csharpPicConverter.exe
+C:\Users\DELL\documents\visual studio 2012\Projects\csharpPicConverter\csharpPicConverter\obj\Release\csharpPicConverter.pdb
